@@ -10,9 +10,9 @@ Features:
 7. User profile
 
 Tech-Stacks :
-Frontend : HTML, CSS, JS, ReactJS, Redux 
-Backend  : Django, Celery, Nginx, Gunicorn, PostgreSql 
-Design   : Figma
+1. Frontend : HTML, CSS, JS, ReactJS, Redux 
+2. Backend  : Django, Celery, Nginx, Gunicorn, PostgreSql 
+3. Design   : Figma
 
 Website:
 <img width="1432" alt="Screenshot 2023-08-22 at 11 19 05 AM" src="https://github.com/IshikaGupta3112/Bulkmailer/assets/113205098/1dd1ac3e-4f32-486a-b251-92f55f580dac">
