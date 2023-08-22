@@ -9,7 +9,12 @@ Features:
 6. Mail History
 7. User profile
 
+Tech-Stacks :
+Frontend : HTML, CSS, JS, ReactJS, Redux 
+Backend  : Django, Celery, Nginx, Gunicorn, PostgreSql 
+Design   : Figma
 
+Website:
 <img width="1432" alt="Screenshot 2023-08-22 at 11 19 05 AM" src="https://github.com/IshikaGupta3112/Bulkmailer/assets/113205098/1dd1ac3e-4f32-486a-b251-92f55f580dac">
 <img width="1419" alt="Screenshot 2023-08-22 at 11 29 08 AM" src="https://github.com/IshikaGupta3112/Bulkmailer/assets/113205098/2f36abee-c4a6-48f3-84eb-1d6bf2dd1d13">
 <img width="1431" alt="Screenshot 2023-08-22 at 11 29 33 AM" src="https://github.com/IshikaGupta3112/Bulkmailer/assets/113205098/3a2f1acf-3229-4bef-8271-70d5021b450e">
